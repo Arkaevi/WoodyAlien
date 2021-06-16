@@ -1,3 +1,4 @@
 body {
   background-image: url("images/neb2.png");
+  background-attachment: fixed;
 }
